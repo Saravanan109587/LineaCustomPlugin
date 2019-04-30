@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-infineasdk": {
+    "source": {
+      "type": "local",
+      "path": "/Users/kylem/Dropbox/Infinite_Peripherals/InfineaSDK/iOS/Cordova/InfineaSDK_Plugin/InfineaSDK/Example/Demo/HelloCordova/node_modules/cordova-plugin-infineasdk"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
